@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VodopolivProMobile.Pages.PageProject">
+    <ScrollView>
+        <VerticalStackLayout Margin="10">
+            <Label>Дождеватель</Label>
+            <Entry x:Name="T1"></Entry>
+            <Label>Сопло</Label>
+            <Entry x:Name="T2"></Entry>
+            <Label>Многоструйная роторная насадка</Label>
+            <Entry x:Name="T3"></Entry>
+            <Label>Клапан электромагнитный</Label>
+            <Entry x:Name="T4"></Entry>
+            <Label VerticalOptions="Center" Margin="10,0,10,0">Датчик дождя</Label>
+            <Picker x:Name="T5"></Picker>
+            <Label>Труба из полиэтилена назкого давления D=32 мм</Label>
+            <Entry x:Name="T6"></Entry>
+            <Label>Труба из полиэтилена назкого давления D=25 мм</Label>
+            <Entry x:Name="T7"></Entry>
+            <HorizontalStackLayout>
+                <CheckBox x:Name="T8" Margin="10,0,0,0"></CheckBox>
+                <Label VerticalOptions="Center">Электрика</Label>
+            </HorizontalStackLayout>
+            <Label>Цилиндрическая емкость</Label>
+            <Picker x:Name="T9"></Picker>
+            <Label>Насос</Label>
+            <Picker x:Name="T10"></Picker>
+            <HorizontalStackLayout>
+                <CheckBox x:Name="T11" Margin="10,0,0,0"></CheckBox>
+                <Label VerticalOptions="Center">Опора шкафа</Label>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout>
+                <CheckBox x:Name="T12" Margin="10,0,0,0"></CheckBox>
+                <Label VerticalOptions="Center">Проектирование</Label>
+            </HorizontalStackLayout>
+            <Label>Пробивка отверстий стен</Label>
+            <Entry x:Name="T13"></Entry>
+            <Label>Пробивка отверстий фундамента</Label>
+            <Entry x:Name="T14"></Entry>
+            <Label>Снятие брусчатки, плитки, водосточных лотков, проход поребриков</Label>
+            <Entry x:Name="T15"></Entry>
+            <Label>Штробление бетона</Label>
+            <Entry x:Name="T16"></Entry>
+            <Label>Клапан электромагнитный</Label>
+            <Entry x:Name="T17"></Entry>
+            <Label>Труба из полиэтилена низкого давления D=25 мм</Label>
+            <Entry x:Name="T18"></Entry>
+            <Label>Капельная линия</Label>
+            <Entry x:Name="T19"></Entry>
+            <Label>Капельный шланг без капельниц</Label>
+            <Entry x:Name="T20"></Entry>
+            <Label>Кран 3/4" НР</Label>
+            <Entry x:Name="T21"></Entry>
+            <Label>Переходник XFF прямой 3/4" НР</Label>
+            <Entry x:Name="T22"></Entry>
+            <Label>Бокс со встроенным краном 3/4" BP RB</Label>
+            <Entry x:Name="T23"></Entry>
+            <Label>Труба из полиэтилена низкого давления D=25 мм</Label>
+            <Entry x:Name="T24"></Entry>
+            <Button x:Name="Save" Clicked="Save_Clicked" Text="Сохранить" Background="Green"></Button>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
