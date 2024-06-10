@@ -4,61 +4,67 @@
              x:Class="VodopolivProMobile.Pages.PageProject">
     <ScrollView>
         <VerticalStackLayout Margin="10">
+            <Label>Название проекта</Label>
+            <Entry x:Name="TName"></Entry>
             <Label>Дождеватель</Label>
-            <Entry x:Name="T1"></Entry>
-            <Label>Сопло</Label>
-            <Entry x:Name="T2"></Entry>
+            <Entry x:Name="T14" Text="0"></Entry>
+            <Label>Сопло статическое</Label>
+            <Entry x:Name="T16" Text="0"></Entry>
+            <Label>Сопло полосовое прямоугольное</Label>
+            <Entry x:Name="T17" Text="0"></Entry>
             <Label>Многоструйная роторная насадка</Label>
-            <Entry x:Name="T3"></Entry>
+            <Entry x:Name="T18" Text="0"></Entry>
             <Label>Клапан электромагнитный</Label>
-            <Entry x:Name="T4"></Entry>
+            <Entry x:Name="T31" Text="0"></Entry>
             <Label VerticalOptions="Center" Margin="10,0,10,0">Датчик дождя</Label>
-            <Picker x:Name="T5"></Picker>
+            <Picker x:Name="T56"></Picker>
             <Label>Труба из полиэтилена назкого давления D=32 мм</Label>
-            <Entry x:Name="T6"></Entry>
+            <Entry x:Name="T65" Text="0"></Entry>
             <Label>Труба из полиэтилена назкого давления D=25 мм</Label>
-            <Entry x:Name="T7"></Entry>
+            <Entry x:Name="T66" Text="0"></Entry>
             <HorizontalStackLayout>
-                <CheckBox x:Name="T8" Margin="10,0,0,0"></CheckBox>
+                <CheckBox x:Name="T63" Margin="10,0,0,0"></CheckBox>
                 <Label VerticalOptions="Center">Электрика</Label>
             </HorizontalStackLayout>
             <Label>Цилиндрическая емкость</Label>
-            <Picker x:Name="T9"></Picker>
+            <Picker x:Name="T87"></Picker>
             <Label>Насос</Label>
-            <Picker x:Name="T10"></Picker>
+            <Picker x:Name="T100"></Picker>
             <HorizontalStackLayout>
-                <CheckBox x:Name="T11" Margin="10,0,0,0"></CheckBox>
+                <CheckBox x:Name="T106" Margin="10,0,0,0"></CheckBox>
                 <Label VerticalOptions="Center">Опора шкафа</Label>
             </HorizontalStackLayout>
             <HorizontalStackLayout>
-                <CheckBox x:Name="T12" Margin="10,0,0,0"></CheckBox>
+                <CheckBox x:Name="T148" Margin="10,0,0,0"></CheckBox>
                 <Label VerticalOptions="Center">Проектирование</Label>
             </HorizontalStackLayout>
             <Label>Пробивка отверстий стен</Label>
-            <Entry x:Name="T13"></Entry>
+            <Entry x:Name="T164" Text="0"></Entry>
             <Label>Пробивка отверстий фундамента</Label>
-            <Entry x:Name="T14"></Entry>
+            <Entry x:Name="T165" Text="0"></Entry>
             <Label>Снятие брусчатки, плитки, водосточных лотков, проход поребриков</Label>
-            <Entry x:Name="T15"></Entry>
+            <Entry x:Name="T169" Text="0"></Entry>
             <Label>Штробление бетона</Label>
-            <Entry x:Name="T16"></Entry>
+            <Entry x:Name="T170" Text="0"></Entry>
             <Label>Клапан электромагнитный</Label>
-            <Entry x:Name="T17"></Entry>
+            <Entry x:Name="T178" Text="0"></Entry>
             <Label>Труба из полиэтилена низкого давления D=25 мм</Label>
-            <Entry x:Name="T18"></Entry>
+            <Entry x:Name="T182" Text="0"></Entry>
             <Label>Капельная линия</Label>
-            <Entry x:Name="T19"></Entry>
+            <Entry x:Name="T184" Text="0"></Entry>
             <Label>Капельный шланг без капельниц</Label>
-            <Entry x:Name="T20"></Entry>
+            <Entry x:Name="T185" Text="0"></Entry>
             <Label>Кран 3/4" НР</Label>
-            <Entry x:Name="T21"></Entry>
+            <Entry x:Name="T186" Text="0"></Entry>
             <Label>Переходник XFF прямой 3/4" НР</Label>
-            <Entry x:Name="T22"></Entry>
+            <Entry x:Name="T191" Text="0"></Entry>
             <Label>Бокс со встроенным краном 3/4" BP RB</Label>
-            <Entry x:Name="T23"></Entry>
+            <Entry x:Name="T215" Text="0"></Entry>
             <Label>Труба из полиэтилена низкого давления D=25 мм</Label>
-            <Entry x:Name="T24"></Entry>
-            <Button x:Name="Save" Clicked="Save_Clicked" Text="Сохранить" Background="Green"></Button>
+            <Entry x:Name="T216" Text="0"></Entry>
+            <Button x:Name="Sav" Clicked="Sav_Clicked"  Text="Сохранить в бд" Background="Green"></Button>
+            <Button x:Name="Save" Clicked="Save_Clicked" Text="Итоговая сумма" Background="Green" Margin="0,10,0,10"></Button>
+            <Button x:Name="Back" Clicked="Back_Clicked"  Text="Отмена" Background="Green"></Button>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

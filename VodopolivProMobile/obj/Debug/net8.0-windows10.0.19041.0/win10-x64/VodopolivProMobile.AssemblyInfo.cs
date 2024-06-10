@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VodopolivProMobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+18b935ff27f54969cc222ffd58c0171eb7d03986")]
 [assembly: System.Reflection.AssemblyProductAttribute("VodopolivProMobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VodopolivProMobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

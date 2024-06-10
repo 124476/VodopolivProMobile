@@ -7,24 +7,28 @@
       "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\netmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\models\\tovarproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\models\\tovarproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\pages\\pageproject.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +39,44 @@
       "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\pages\\pageproject.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\models\\tovarproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\models\\tovarproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\pages\\pageresult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\pages\\pageresult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\pages\\pageresult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\pages\\pageresult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\vodopolivpromobile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\vodopolivpromobile.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\XamlTypeInfo.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VodopolivProMobile\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\XamlTypeInfo.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|solutionrelative:vodopolivpromobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7747CFB1-EBD5-4E77-BBB9-80997619229B}|VodopolivProMobile\\VodopolivProMobile.csproj|c:\\users\\art82\\source\\repos\\vodopolivpromobile\\vodopolivpromobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 405,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,6 +109,104 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "VodopolivProMobile\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Models\\Project.cs",
+              "RelativeToolTip": "VodopolivProMobile\\Models\\Project.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:01:52.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "VodopolivProMobile\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "VodopolivProMobile\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:24:02.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "VodopolivProMobile\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "VodopolivProMobile\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:39:49.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "VodopolivProMobile\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "VodopolivProMobile\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-08T09:27:38.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VodopolivProMobile",
+              "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\VodopolivProMobile.csproj",
+              "RelativeDocumentMoniker": "VodopolivProMobile\\VodopolivProMobile.csproj",
+              "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\VodopolivProMobile.csproj",
+              "RelativeToolTip": "VodopolivProMobile\\VodopolivProMobile.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T09:13:10.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "VodopolivProMobile\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\MauiProgram.cs",
+              "RelativeToolTip": "VodopolivProMobile\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:07:38.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PageResult.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Pages\\PageResult.xaml.cs",
+              "RelativeDocumentMoniker": "VodopolivProMobile\\Pages\\PageResult.xaml.cs",
+              "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Pages\\PageResult.xaml.cs",
+              "RelativeToolTip": "VodopolivProMobile\\Pages\\PageResult.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:11:30.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PageResult.xaml",
+              "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Pages\\PageResult.xaml",
+              "RelativeDocumentMoniker": "VodopolivProMobile\\Pages\\PageResult.xaml",
+              "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Pages\\PageResult.xaml",
+              "RelativeToolTip": "VodopolivProMobile\\Pages\\PageResult.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T07:58:22.549Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NetManage.cs",
@@ -84,14 +214,14 @@
               "RelativeDocumentMoniker": "VodopolivProMobile\\NetManage.cs",
               "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\NetManage.cs",
               "RelativeToolTip": "VodopolivProMobile\\NetManage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T07:30:08.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "TovarProject.cs",
               "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Models\\TovarProject.cs",
               "RelativeDocumentMoniker": "VodopolivProMobile\\Models\\TovarProject.cs",
@@ -99,42 +229,35 @@
               "RelativeToolTip": "VodopolivProMobile\\Models\\TovarProject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T07:27:42.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T07:27:42.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Tovar.cs",
               "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Models\\Tovar.cs",
               "RelativeDocumentMoniker": "VodopolivProMobile\\Models\\Tovar.cs",
               "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Models\\Tovar.cs",
               "RelativeToolTip": "VodopolivProMobile\\Models\\Tovar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T07:27:36.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T07:27:36.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\App.xaml",
               "RelativeDocumentMoniker": "VodopolivProMobile\\App.xaml",
               "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\App.xaml",
               "RelativeToolTip": "VodopolivProMobile\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-08T07:27:09.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-06-08T07:27:09.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "XamlTypeInfo.g.cs",
               "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\XamlTypeInfo.g.cs",
               "RelativeDocumentMoniker": "VodopolivProMobile\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\XamlTypeInfo.g.cs",
@@ -142,34 +265,31 @@
               "RelativeToolTip": "VodopolivProMobile\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\XamlTypeInfo.g.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T07:19:26.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T07:19:26.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PageProject.xaml.cs",
               "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Pages\\PageProject.xaml.cs",
               "RelativeDocumentMoniker": "VodopolivProMobile\\Pages\\PageProject.xaml.cs",
               "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Pages\\PageProject.xaml.cs",
               "RelativeToolTip": "VodopolivProMobile\\Pages\\PageProject.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:53:59.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T06:53:59.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PageProject.xaml",
               "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Pages\\PageProject.xaml",
               "RelativeDocumentMoniker": "VodopolivProMobile\\Pages\\PageProject.xaml",
               "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\Pages\\PageProject.xaml",
               "RelativeToolTip": "VodopolivProMobile\\Pages\\PageProject.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-08T06:43:26.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T06:43:26.669Z"
             },
             {
               "$type": "Document",
@@ -179,40 +299,37 @@
               "RelativeDocumentMoniker": "VodopolivProMobile\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\MainPage.xaml.cs",
               "RelativeToolTip": "VodopolivProMobile\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:42:56.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T06:42:56.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\AppShell.xaml",
               "RelativeDocumentMoniker": "VodopolivProMobile\\AppShell.xaml",
               "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\AppShell.xaml",
               "RelativeToolTip": "VodopolivProMobile\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-08T06:30:40.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T06:30:40.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\MainPage.xaml",
               "RelativeDocumentMoniker": "VodopolivProMobile\\MainPage.xaml",
               "ToolTip": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\MainPage.xaml",
               "RelativeToolTip": "VodopolivProMobile\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-08T06:30:05.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T06:30:05.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\App.xaml.cs",
               "RelativeDocumentMoniker": "VodopolivProMobile\\App.xaml.cs",
@@ -220,12 +337,11 @@
               "RelativeToolTip": "VodopolivProMobile\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:30:01.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T06:30:01.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\art82\\source\\repos\\VodopolivProMobile\\VodopolivProMobile\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "VodopolivProMobile\\AppShell.xaml.cs",

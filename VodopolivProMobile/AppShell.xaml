@@ -6,20 +6,11 @@
     xmlns:local="clr-namespace:VodopolivProMobile"
     Shell.FlyoutBehavior="Disabled"
     Title="VodopolivProMobile">
-
-    <TabBar>
-        <Tab Title="Проекты">
-            <ShellContent
-                Title="Проекты"
-                ContentTemplate="{DataTemplate local:MainPage}"
-                Route="MainPage" />
-        </Tab>
-        <Tab Title="Новый проект">
-            <ShellContent
-                Title="Новый проект"
-                ContentTemplate="{DataTemplate local:Pages.PageProject}"
-                Route="MainPage" />
-        </Tab>
-    </TabBar>
+    <Tab Title="Проекты">
+        <ShellContent
+            Title="Проекты"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+    </Tab>
 
 </Shell>

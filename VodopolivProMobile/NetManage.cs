@@ -1,7 +1,9 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using VodopolivPro.Models;
 
@@ -9,6 +11,17 @@ namespace VodopolivPro
 {
     class NetManage
     {
+        static HttpClient httpClient = new HttpClient();
+        public static async Task<T> Get<T>(string controller)
+        {
+            var response = await httpClient.GetAsync("https://12447698.pythonanywhere.com" + controller);
+            var content = await response.Content.ReadAsStringAsync();
+            var data = JsonConvert.DeserializeObject<T>(content);
+            return data;
+        }
+
+        public static Project project;
+        public static List<double> sums = new List<double>() { 0, 0, 0 };
         public static List<Tovar> Tovars = new List<Tovar>()
         {
 

@@ -1,12 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="VodopolivProMobile.MainPage">
+             x:Class="VodopolivProMobile.MainPage"
+             Loaded="ContentPage_Loaded">
 
     <ScrollView>
         <VerticalStackLayout>
             <Label x:Name="ErrorText" TextColor="Red" HorizontalOptions="Center">Ошибка загрузки</Label>
+            <CollectionView x:Name="ListProjects" Margin="10">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <HorizontalStackLayout>
+                                <Label Text="{Binding Name}" FontSize="27" WidthRequest="100"></Label>
+                                <Button Text="Открыть" Clicked="Button_Clicked" Margin="10,5,0,5" MinimumWidthRequest="200" MaximumWidthRequest="600"></Button>
+                            </HorizontalStackLayout>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Button x:Name="NewBtn" Clicked="NewBtn_Clicked" Text="Новый проект" Margin="10"></Button>
         </VerticalStackLayout>
     </ScrollView>
-
 </ContentPage>
